@@ -26,7 +26,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
     int n;
     scanf("%d",&n);
-    int arr[100];
+    int arr[1000];
     for(int i=0;i<n;i++)
     {
         scanf("%d",&arr[i]);
